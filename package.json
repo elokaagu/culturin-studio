@@ -25,6 +25,7 @@
     "sanity": "^3.30.0",
     "sanity-algolia": "^1.1.0",
     "sanity-plugin-mux-input": "^2.2.4",
+    "sanity-plugin-vercel-deploy": "^3.3.4",
     "styled-components": "^6.1.9"
   },
   "devDependencies": {
