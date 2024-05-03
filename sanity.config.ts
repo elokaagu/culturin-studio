@@ -7,8 +7,8 @@ import {vercelDeployTool} from 'sanity-plugin-vercel-deploy'
 
 export default defineConfig({
   name: 'default',
-  title: 'Culturin Sanity',
-
+  title: 'Culturin Studio',
+  basePath: 'studio',
   projectId: '8rwgyjc1',
   dataset: 'production',
 
