@@ -14,7 +14,7 @@ export default {
       title: 'Slug of your blog article',
       options: {
         source: 'title',
-        maxLength: 98,
+        maxLength: 96,
       },
     },
     {
